@@ -1,0 +1,2 @@
+CHARACTER_IMAGE_DIRECTORY="asset/character_images"
+BACKGROUND_IMAGE_DIRECTORY="asset/background_images"
